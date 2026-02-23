@@ -1,0 +1,1 @@
+how does an upload directly to github without using git behave when pushing afterwards?
