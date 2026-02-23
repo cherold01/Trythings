@@ -2,3 +2,5 @@ print("Every machine that is clever enough to pass the Turing test could also be
 
 import sys
 print(sys.executable)
+
+print("I am testing new things :)")
