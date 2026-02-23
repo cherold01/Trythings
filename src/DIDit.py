@@ -4,3 +4,5 @@ import sys
 print(sys.executable)
 
 print("I am testing new things :)")
+
+print("What happens if I write this on github directly?")
